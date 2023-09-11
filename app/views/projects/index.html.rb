@@ -5,7 +5,7 @@
   <div class="card-body">
     <h5 class="card-title">Proyecto 1</h5>
     <p class="card-text">Proyecto Viajes Chile.</p>
-    <a href="#" class="btn btn-primary">Ver más</a>
+    <a href="#" class="btn btn-custom">Ver más</a>
   </div>
 </div>
 
@@ -14,7 +14,7 @@
   <div class="card-body">
     <h5 class="card-title">Proyecto 2</h5>
     <p class="card-text">Proyecto Ricomida.</p>
-    <a href="#" class="btn btn-primary">Ver más</a>
+    <a href="#" class="btn btn-custom">Ver más</a>
   </div>
 </div>
 
@@ -23,6 +23,6 @@
   <div class="card-body">
     <h5 class="card-title">Proyecto 3</h5>
     <p class="card-text">Proyecto Cuppon Page.</p>
-    <a href="#" class="btn btn-primary">Ver más</a>
+    <a href="#" class="btn btn-custom">Ver más</a>
   </div>
 </div>
